@@ -1,0 +1,36 @@
+{
+  "employee": [
+    {
+      "id": "41e9",
+      "name": "Boopathi",
+      "age": "22",
+      "gender": "male",
+      "department": "CSE",
+      "mail": "thiyagu@gmail.com"
+    },
+    {
+      "id": "6741",
+      "name": "Thiyagu G",
+      "age": "22",
+      "gender": "male",
+      "department": "MECH",
+      "mail": "Boopathi&476@gmail.com"
+    },
+    {
+      "id": "83ed",
+      "name": "Gokul",
+      "age": "26",
+      "gender": "male",
+      "department": "MECH",
+      "mail": "thiyagu@gmail.com"
+    },
+    {
+      "id": "bf53",
+      "name": "Boopathi R",
+      "age": "22",
+      "gender": "male",
+      "department": "CSE",
+      "mail": "Boopathi&476@gmail.com"
+    }
+  ]
+}
